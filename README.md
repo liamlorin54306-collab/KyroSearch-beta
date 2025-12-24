@@ -1,2 +1,2 @@
 # KyroSearch
-c'est t'un chat qui répond a des question simple et qui est en développement ils y avoirs des mise a jours
+KyroSearch est un chat qui répond à des questions sur la programation et qui est en développement, il risque d'avoirs des mise à jours prochainement.
